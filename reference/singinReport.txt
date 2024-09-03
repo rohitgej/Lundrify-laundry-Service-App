@@ -1,0 +1,84 @@
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\MTS\project\reactnative\newthree\myapp\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May, 2052
+----------
+Variant: release
+Config: debug
+Store: C:\MTS\project\reactnative\newthree\myapp\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May, 2052
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\MTS\project\reactnative\newthree\myapp\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, 1 May, 2052
+----------
+
+> Task :react-native-bootsplash:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\ROHIT\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BB:0D:3E:35:CC:24:AC:8E:A2:B0:D6:D4:91:6A:E1:27
+SHA1: ED:BD:EB:A7:0C:B2:B4:BC:73:1B:69:87:65:0D:40:A8:86:4A:7A:C4
+SHA-256: 1F:02:C8:66:B4:A7:C0:9B:0D:85:DA:F1:13:BF:80:86:32:2D:58:64:71:25:2C:A4:A6:AC:7F:3A:54:50:08:48
+Valid until: Tuesday, 27 May, 2053
+----------
+
+> Task :react-native-safe-area-context:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\ROHIT\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BB:0D:3E:35:CC:24:AC:8E:A2:B0:D6:D4:91:6A:E1:27
+SHA1: ED:BD:EB:A7:0C:B2:B4:BC:73:1B:69:87:65:0D:40:A8:86:4A:7A:C4
+SHA-256: 1F:02:C8:66:B4:A7:C0:9B:0D:85:DA:F1:13:BF:80:86:32:2D:58:64:71:25:2C:A4:A6:AC:7F:3A:54:50:08:48
+Valid until: Tuesday, 27 May, 2053
+----------
+
+> Task :react-native-screens:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\ROHIT\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BB:0D:3E:35:CC:24:AC:8E:A2:B0:D6:D4:91:6A:E1:27
+SHA1: ED:BD:EB:A7:0C:B2:B4:BC:73:1B:69:87:65:0D:40:A8:86:4A:7A:C4
+SHA-256: 1F:02:C8:66:B4:A7:C0:9B:0D:85:DA:F1:13:BF:80:86:32:2D:58:64:71:25:2C:A4:A6:AC:7F:3A:54:50:08:48
+Valid until: Tuesday, 27 May, 2053
+----------
+
+> Task :react-native-splash-screen:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\ROHIT\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BB:0D:3E:35:CC:24:AC:8E:A2:B0:D6:D4:91:6A:E1:27
+SHA1: ED:BD:EB:A7:0C:B2:B4:BC:73:1B:69:87:65:0D:40:A8:86:4A:7A:C4
+SHA-256: 1F:02:C8:66:B4:A7:C0:9B:0D:85:DA:F1:13:BF:80:86:32:2D:58:64:71:25:2C:A4:A6:AC:7F:3A:54:50:08:48
+Valid until: Tuesday, 27 May, 2053
+----------
+
+> Task :react-native-vector-icons:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\ROHIT\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BB:0D:3E:35:CC:24:AC:8E:A2:B0:D6:D4:91:6A:E1:27
+SHA1: ED:BD:EB:A7:0C:B2:B4:BC:73:1B:69:87:65:0D:40:A8:86:4A:7A:C4
+SHA-256: 1F:02:C8:66:B4:A7:C0:9B:0D:85:DA:F1:13:BF:80:86:32:2D:58:64:71:25:2C:A4:A6:AC:7F:3A:54:50:08:48
+Valid until: Tuesday, 27 May, 2053
+----------

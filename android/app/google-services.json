@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113313910521",
+    "project_id": "netflix-pronext",
+    "storage_bucket": "netflix-pronext.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113313910521:android:c258103a7608b8b6d85c28",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOL1ImwwmoLykReUyNxc-poTtNSPB3yj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
